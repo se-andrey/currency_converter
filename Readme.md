@@ -10,7 +10,7 @@
 ### Клонируем репозиторий
     mkdir app
     cd cat app
-    git clone https://github.com/se-andrey/insurance_api.git
+    git clone https://github.com/se-andrey/currency_converter.git
 
 Если на сервере нет docker/docker-compose, то установите его - инструкция https://docs.docker.com/
     
